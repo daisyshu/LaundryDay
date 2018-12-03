@@ -1,0 +1,6 @@
+framework module Pods_Laundry_Home {
+  umbrella header "Pods-Laundry_Home-umbrella.h"
+
+  export *
+  module * { export * }
+}
