@@ -1,4 +1,4 @@
-# laundry_day
+# Laundry Day App
 making laundry day easier!
 
 iOS: Sage Lee (sl2364) and Daisy Shu (dds86)
